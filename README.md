@@ -1,6 +1,6 @@
 # 🎬 Movie App Fullstack
 
-Aplicación web desarrollada para gestionar un catálogo de películas. Consta de un backend en Java con Spring Boot conectado a una base de datos MySQL y un frontend que permite visualizar, registrar y listar películas.
+Aplicación web desarrollada para gestionar un catálogo de películas. Consta de un backend en Java con Spring Boot conectado a una base de datos Postgres y un frontend que permite visualizar, registrar y listar películas.
 
 ---
 

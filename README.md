@@ -22,6 +22,7 @@ Aplicación web desarrollada para gestionar un catálogo de películas. Consta d
 ---
 
 ## 📦 Estructura del proyecto
+```
 movie-app-fullstack/
 ├── Backend/ # Proyecto backend (Spring Boot)
 │ └── src/...
@@ -29,8 +30,7 @@ movie-app-fullstack/
 │ └── index.html
 ├── README.md
 └── ...
-
----
+```
 
 ## 🛠️ Instalación y ejecución
 
